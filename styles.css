@@ -1,0 +1,32 @@
+/* body{
+    background-color: lightblue;
+} */
+/* Para ligar un id se pone un # y para hacer referencia a una clase se pone un "." */
+
+#title {
+    color:limegreen; 
+    text-align:center;
+}
+
+/* p {
+    color: mediumaquamarine;
+    background: black;
+} */
+
+.p-large {
+    font-size: 32px;
+}
+.p-green {
+    color:mediumaquamarine;
+    background-color: pink;    
+}
+
+.p-red {
+    color: red;
+    background-color: hotpink;
+}
+
+h1 {
+    color: red; 
+    text-align:center;
+}

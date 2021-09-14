@@ -1,0 +1,56 @@
+body{
+    background-image:url(https://noticieros.televisa.com/wp-content/uploads/2021/03/cheems-1.jpg) ;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+h1 {
+    color: hotpink;
+    font-weight:bolder;
+    font-family: "Sofia", sans-serif;
+    animation-duration: 3s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+h2 {
+    color:limegreen;
+    background-color: mediumaquamarine;
+    font-weight:bolder;
+    font-family: "Sofia", sans-serif;
+}
+
+.p-largo {
+    color: black;
+    background-color: lightsalmon;
+    font-weight:lighter;
+    font-family: "Sofia", sans-serif;
+}
+
+.p-corto{
+    animation-duration: 3s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    } 
+}
+
+ul {
+    background: #3399ff;
+    padding: 20px;;
+  }
