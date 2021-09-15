@@ -1,0 +1,33 @@
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+    text-align: center;
+}
+
+.fondo-gris {
+    background-color:lightgray;
+}
+.rojo {
+    color: red;
+    background-color: grey;
+}
+
+.morado {
+    color: purple;
+    background-color: grey;
+}
+
+span {
+    color:mediumblue;
+    text-decoration: underline;
+}
+
+.verde {
+    color: green;
+    text-decoration: none;
+}
+.der {
+    text-align: right;
+}

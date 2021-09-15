@@ -1,0 +1,38 @@
+body {
+    background-color: lightsteelblue;
+}
+
+h1 {
+    text-align: right;
+}
+span {
+    color: red;
+    font-family: 'Comic Sans' ;
+}
+
+p {
+    text-indent: 50px;
+}
+.naranja {
+    color: orangered;
+    font-weight: bold;
+}
+
+.nar {
+    color: orangered;
+}
+
+.nar-c {
+    color:orangered;
+    font-style: italic;
+}
+
+.verde {
+    color:green;
+    font-style: italic;
+    background-color: white;
+}
+
+.foot {
+    text-align: center;
+}
