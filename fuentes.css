@@ -1,0 +1,34 @@
+/* body {
+    background-color: black;
+} */
+.title1 {
+    font-family: 'Architects Daughter', cursive;
+}
+
+.title2 {
+    font-family: 'Azaret Mono', monospace;
+}
+.font2 {
+    font-family: 'Azeret Mono', monospace;
+    font-style: italic;
+}
+
+.title3 {
+    font-family: 'EB Garamond', serif;
+}
+.font3 {
+    font-family:'EB Garamond', serif;
+    font-style: italic;
+}
+
+.title4 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+.font4 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 200px;
+}
+
+.title5 {
+    font-family: 'Lobster', cursive;
+}
