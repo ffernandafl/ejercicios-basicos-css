@@ -1,0 +1,51 @@
+
+.header {
+    background-color: lightgrey;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.Navigation-menu {
+    background-color: lightgrey;
+    height: 70px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.contenido {
+    display:flex;
+    justify-content: space-between;
+} 
+
+.cont {
+    background-color: lightgrey;
+    height:400px;
+    width: 300px;
+    margin-bottom: 10px;
+    display:flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.cont2 {
+    background-color: lightgrey;
+    height:400px;
+    width: 700px;
+    margin-bottom: 10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer {
+    background-color: lightgrey;
+    height: 70px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
