@@ -1,0 +1,39 @@
+/* body {
+    background-color: chartreuse;
+} */
+
+.container {
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.caja {
+    width: 150px;
+    height: 150px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja1 {
+    border: 2px solid red;
+}
+
+.caja2 {
+    border: 2px solid yellow;
+    align-self: flex-end;
+}
+
+.caja3 {
+    border: 2px solid royalblue;
+}
+
+.caja4 {
+    border: 2px solid purple;
+}
